@@ -1,0 +1,22 @@
+{
+	"author": "tannishk",
+	"name": "fcc-learn-npm-package-json",
+  "description":"A dummy project",
+  "keywords":["freecodecamp","microservices","API"],
+  "version": "1.2",
+  "license": "MIT",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
